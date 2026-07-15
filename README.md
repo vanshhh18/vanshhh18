@@ -38,7 +38,7 @@ A LangGraph ReAct agent (Qwen3-32b) with 12 tools spanning read ops (revenue, ac
 - ✅ **~1.5s average response latency**
 - ✅ Approval-gated workflow correctly blocked/handled **80% of invalid inputs** in edge-case testing
 
-🔗 [GitHub](https://github.com/vanshhh18)
+🔗 [GitHub](https://github.com/vanshhh18/OpsCopilot)
 
 ---
 
@@ -51,7 +51,7 @@ Fine-tuned YOLOv8m to detect PPE items (helmet, vest, gloves, boots, goggles) an
 - ✅ Diagnosed and resolved severe class imbalance in minority labels via per-class mAP analysis
 - ✅ Interactive Streamlit app for real-time image/video compliance checking
 
-🔗 [GitHub](https://github.com/vanshhh18)
+🔗 [GitHub](https://github.com/vanshhh18/ppe-compliance-detector)
 
 ---
 
@@ -64,7 +64,19 @@ LinearSVC multi-output ticket classifier feeding a LangGraph multi-agent RAG pip
 - ✅ Deployed via FastAPI on HuggingFace Spaces
 - ✅ RAG context retrieval via ChromaDB + Sentence-Transformers for domain-specific responses
 
-🔗 [GitHub](https://github.com/vanshhh18)
+🔗 [GitHub](https://github.com/vanshhh18/multi-agent-helpdesk)
+
+---
+
+### 💬 Codebase Analysis Chatbot (RAG)
+> *Python · LangChain · HuggingFace · FAISS · Groq LLM · Streamlit*
+
+RAG-based chatbot that ingests PDFs and ZIP codebases for semantic code search.
+
+- ✅ Indexes **10,000+ chunks** with sub-second retrieval via FAISS
+- ✅ **~1.5s response time** using Groq-powered inference
+
+🔗 [GitHub](https://github.com/vanshhh18/hallucination-detector-rag)
 
 ---
 
@@ -77,17 +89,7 @@ End-to-end AI agent that sources, enriches, and scores business leads automatica
 - ✅ AI-driven filtering improved lead quality by **70%**
 - ✅ Generated **600+ sales-ready leads**
 
----
-
-### 💬 Codebase Analysis Chatbot (RAG)
-> *Python · LangChain · HuggingFace · FAISS · Groq LLM · Streamlit*
-
-RAG-based chatbot that ingests PDFs and ZIP codebases for semantic code search.
-
-- ✅ Indexes **10,000+ chunks** with sub-second retrieval via FAISS
-- ✅ **~1.5s response time** using Groq-powered inference
-
-🔗 [Live Demo](https://rag-chatbot-wjdvvsnltezmebj9xvkrkr.streamlit.app/)
+🔗 [GitHub](https://github.com/vanshhh18/Lead-Generation-Agent)
 
 ---
 
@@ -100,6 +102,8 @@ RAG-based chatbot that ingests PDFs and ZIP codebases for semantic code search.
 **GenAI Powered Data Analytics Intern** &nbsp;·&nbsp; [Tata via Forage](https://www.theforage.com/) &nbsp;·&nbsp; *May 2026 · Remote*
 - Built AI-assisted analytics workflows using Python & Excel, improving reporting efficiency by **30%**
 - Developed interactive dashboards supporting a **20% improvement** in targeted business recommendations
+
+🔗 [GitHub](https://github.com/vanshhh18/hybrid-rag-system)
 
 ---
 
